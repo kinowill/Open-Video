@@ -1,0 +1,11 @@
+/outils/
+/cache/
+/livrables/
+__pycache__/
+.env
+.env.*
+*.blend
+*.blend[0-9]*
+*.mp4
+*.mov
+*.wav

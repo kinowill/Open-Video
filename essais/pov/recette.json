@@ -1,0 +1,35 @@
+{
+  "name": "OpenVideo_POV_essai",
+  "title": "Open-Video - Essai POV tondeuse",
+  "resolution": [
+    720,
+    1280
+  ],
+  "fps": 30,
+  "frames": 60,
+  "samples": 24,
+  "seed": 83,
+  "camera": {
+    "start": [
+      -0.37,
+      -2.72,
+      0.175
+    ],
+    "direction": [
+      0.36,
+      1.9,
+      -0.26
+    ],
+    "speed_mps": 0.52,
+    "lens_mm": 35,
+    "focus_m": 1.02,
+    "f_stop": 6.3
+  },
+  "light": {
+    "sky_rotation_degrees": 225,
+    "sky_strength": 0.65,
+    "sun_energy": 1.9,
+    "fill_energy": 42,
+    "exposure": 0.27
+  }
+}

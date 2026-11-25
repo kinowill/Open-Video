@@ -1,0 +1,88 @@
+{
+  "name": "OpenVideo_Packshot_Studio",
+  "title": "Open-Video - Packshot studio d'essai",
+  "resolution": [
+    1280,
+    720
+  ],
+  "fps": 24,
+  "frames": 72,
+  "samples": 24,
+  "motion_blur": true,
+  "studio": {
+    "collection": "Subject",
+    "camera": {
+      "start_degrees": -58,
+      "sweep_degrees": 94,
+      "distance": 2.4,
+      "height": 0.84,
+      "lens_mm": 49,
+      "f_stop": 7.1,
+      "target_offset": [
+        0,
+        0,
+        -0.045
+      ]
+    },
+    "world_color": [
+      0.27,
+      0.35,
+      0.47
+    ],
+    "world_strength": 0.19,
+    "floor_color": [
+      0.018,
+      0.028,
+      0.036
+    ],
+    "plinth": false,
+    "exposure": -0.18,
+    "lights": [
+      {
+        "name": "Key softbox",
+        "offset": [
+          -2.1,
+          -2.3,
+          3.6
+        ],
+        "power": 760,
+        "color": [
+          1.0,
+          0.86,
+          0.71
+        ],
+        "size": 2.9
+      },
+      {
+        "name": "Cool fill",
+        "offset": [
+          2.4,
+          -1.1,
+          1.7
+        ],
+        "power": 165,
+        "color": [
+          0.67,
+          0.82,
+          1.0
+        ],
+        "size": 2.3
+      },
+      {
+        "name": "Rim softbox",
+        "offset": [
+          -0.45,
+          2.9,
+          2.8
+        ],
+        "power": 770,
+        "color": [
+          0.88,
+          0.96,
+          1.0
+        ],
+        "size": 2.15
+      }
+    ]
+  }
+}

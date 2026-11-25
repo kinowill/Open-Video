@@ -1,0 +1,5 @@
+{
+  "reference": {"samples": 24, "adaptive_threshold": 0.035, "adaptive_min_samples": 8, "max_bounces": 12, "diffuse_bounces": 4, "glossy_bounces": 4, "transmission_bounces": 12, "transparent_max_bounces": 8, "volume_bounces": 0},
+  "rebonds": {"samples": 24, "adaptive_threshold": 0.035, "adaptive_min_samples": 8, "max_bounces": 6, "diffuse_bounces": 2, "glossy_bounces": 2, "transmission_bounces": 6, "transparent_max_bounces": 8, "volume_bounces": 0},
+  "rapide": {"samples": 16, "adaptive_threshold": 0.045, "adaptive_min_samples": 6, "max_bounces": 12, "diffuse_bounces": 4, "glossy_bounces": 4, "transmission_bounces": 12, "transparent_max_bounces": 8, "volume_bounces": 0}
+}
